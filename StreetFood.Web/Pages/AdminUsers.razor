@@ -1,0 +1,106 @@
+﻿@page "/admin-users"
+@using StreetFood.Web.Models
+@inject HttpClient Http
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Quản lý Tài khoản Chủ quán</h2>
+        <button class="btn btn-primary" @onclick="OpenAddModal">Thêm chủ quán mới</button>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead class="table-light">
+            <tr>
+                <th>STT</th>
+                <th>Tên đăng nhập</th>
+                <th>Họ tên</th>
+                <th>Mã OwnerId</th>
+                <th>Vai trò</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (users == null)
+            {
+                <tr><td colspan="5" class="text-center">Đang tải dữ liệu...</td></tr>
+            }
+            else
+            {
+                int stt = 1;
+                foreach (var u in users)
+                {
+                    <tr>
+                        <td>@(stt++)</td>
+                        <td>@u.Username</td>
+                        <td>@u.FullName</td>
+                        <td><span class="badge bg-info text-dark">@u.OwnerId</span></td>
+                        <td>@u.Role</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@if (showModal)
+{
+    <div class="modal fade show d-block" style="background: rgba(0,0,0,0.5)">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Tạo tài khoản mới</h5>
+                    <button type="button" class="btn-close" @onclick="CloseModal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label>Tên đăng nhập:</label>
+                        <input class="form-control" @bind="newUser.Username" placeholder="Ví dụ: chuquan3" />
+                    </div>
+                    <div class="mb-3">
+                        <label>Mật khẩu:</label>
+                        <input class="form-control" type="password" @bind="newUser.Password" />
+                    </div>
+                    <div class="mb-3">
+                        <label>Họ tên chủ quán:</label>
+                        <input class="form-control" @bind="newUser.FullName" />
+                    </div>
+                    <div class="alert alert-info">
+                        <strong>Lưu ý:</strong> Hệ thống sẽ tự động gán mã <b>OwnerId</b> tăng dần khi bạn nhấn Lưu.
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" @onclick="CloseModal">Hủy</button>
+                    <button class="btn btn-success" @onclick="SaveUser">Lưu tài khoản</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private List<UserModel> users;
+    private UserModel newUser = new();
+    private bool showModal = false;
+    private string apiBaseUrl = "https://localhost:7163/api/User"; // Kiểm tra đúng cổng port của bạn
+
+    protected override async Task OnInitializedAsync() => await LoadUsers();
+
+    private async Task LoadUsers() => users = await Http.GetFromJsonAsync<List<UserModel>>(apiBaseUrl);
+
+    private void OpenAddModal()
+    {
+        newUser = new UserModel { Role = "ShopOwner" }; // Mặc định tạo cho chủ quán
+        showModal = true;
+    }
+
+    private void CloseModal() => showModal = false;
+
+    private async Task SaveUser()
+    {
+        var response = await Http.PostAsJsonAsync(apiBaseUrl, newUser);
+        if (response.IsSuccessStatusCode)
+        {
+            await LoadUsers();
+            CloseModal();
+        }
+    }
+}

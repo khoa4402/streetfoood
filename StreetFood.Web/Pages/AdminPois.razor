@@ -1,0 +1,315 @@
+﻿@page "/admin-pois"
+@inject IJSRuntime JS
+@inject NavigationManager NavManager
+@inject HttpClient Http
+@using StreetFood.Web.Models
+
+<PageTitle>Quản lý Quán Ăn - StreetFood Admin</PageTitle>
+
+<div class="admin-container">
+    <div class="admin-header">
+        <div>
+            <h2 class="page-title">Quản lý Quán Ăn</h2>
+            <p class="page-subtitle">Thêm mới và quản lý danh sách địa điểm ẩm thực</p>
+        </div>
+        <button class="btn-add" @onclick="OpenModal">
+            <span class="bi bi-plus-circle"></span> Thêm quán mới
+        </button>
+    </div>
+
+    <div class="search-section">
+        <div class="search-box">
+            <span class="bi bi-search"></span>
+            <input type="text" 
+                   placeholder="Nhập tên quán ăn để tìm..." 
+                   @bind="searchTerm" 
+                   @bind:event="oninput" />
+        </div>
+        <div class="total-badge">Tổng số quán: @(Pois?.Count ?? 0)</div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="admin-table">
+            <thead>
+                <tr>
+                    <th width="10%">STT</th>
+                    <th width="40%">Tên Quán Ăn & Tọa độ</th>
+                    <th width="15%">Chủ sở hữu</th> @* Thêm cột này để Admin dễ theo dõi *@
+                    <th width="10%">Bán kính</th>
+                    <th width="25%" class="text-center">Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Pois == null)
+                {
+                    <tr><td colspan="5" class="text-center">🔄 Đang kết nối API...</td></tr>
+                }
+                else
+                {
+                    var filteredPois = Pois.Where(p => string.IsNullOrWhiteSpace(searchTerm) 
+                                         || (p.Name != null && p.Name.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))).ToList();
+
+                    if (filteredPois.Count == 0)
+                    {
+                        <tr><td colspan="5" class="text-center">ℹ️ Không tìm thấy quán ăn nào phù hợp.</td></tr>
+                    }
+                    else
+                    {
+                        @foreach (var poi in filteredPois)
+                        {
+                            <tr>
+                                <td><strong>#@poi.Id</strong></td>
+                                <td>
+                                    <div class="booth-name">@poi.Name</div>
+                                    <div class="booth-location">
+                                        <span class="bi bi-geo-alt"></span> Lat: @poi.Latitude | Lng: @poi.Longitude
+                                    </div>
+                                </td>
+                                <td>
+                                    <span class="owner-tag">@(string.IsNullOrEmpty(poi.OwnerId) ? "Chưa gán" : poi.OwnerId)</span>
+                                </td>
+                                <td><span class="radius-badge">@poi.Radius m</span></td>
+                                <td class="text-center">
+                                    <button class="badge-edit" @onclick="() => OpenEditModal(poi)">Sửa</button>
+                                    <button class="badge-delete" @onclick="() => AskDelete(poi.Id)">Xóa</button>
+                                </td>
+                            </tr>
+                        }
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    @* --- MODAL THÊM/SỬA QUÁN --- *@
+    @if (showModal)
+    {
+        <div class="modal-backdrop">
+            <div class="custom-modal">
+                <div class="modal-header">
+                    <h3>@(isEditMode ? "📝 Chỉnh sửa Quán Ăn" : "➕ Thêm Quán Ăn Mới")</h3>
+                    <button class="close-btn" @onclick="CloseModal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-row">
+                        <label>Tên quán ăn</label>
+                        <input type="text" @bind="newPoi.Name" />
+                    </div>
+
+                    @* BỔ SUNG: Ô CHỌN CHỦ SỞ HỮU (CHỈ ADMIN THẤY) *@
+                    @if (userRole == "Admin")
+                    {
+                        <div class="form-row">
+                            <label style="color: #d97706; font-weight: bold;">Phân quyền cho Chủ quán (OwnerId)</label>
+                            <select @bind="newPoi.OwnerId" class="form-select-custom">
+                                <option value="">-- Để trống (Admin quản lý) --</option>
+                                <option value="owner_01">Chủ quán 1 (owner_01)</option>
+                                <option value="owner_02">Chủ quán 2 (owner_02)</option>
+                                <option value="owner_03">Chủ quán 3 (owner_03)</option>
+                            </select>
+                            <small style="color: #6b7280;">Lưu ý: Nhập tay mã OwnerId nếu chưa có trong danh sách</small>
+                            <input type="text" @bind="newPoi.OwnerId" placeholder="Hoặc nhập mã OwnerId mới..." style="margin-top:5px; height: 35px; font-size: 13px;"/>
+                        </div>
+                    }
+
+                    <div class="form-row">
+                        <label>Mô tả ngắn</label>
+                        <textarea @bind="newPoi.Description" rows="2"></textarea>
+                    </div>
+                    <div class="form-group-inline">
+                        <div class="form-row">
+                            <label>Kinh độ (Lat)</label>
+                            <input type="number" step="0.00000001" @bind="newPoi.Latitude" />
+                        </div>
+                        <div class="form-row">
+                            <label>Vĩ độ (Lng)</label>
+                            <input type="number" step="0.00000001" @bind="newPoi.Longitude" />
+                        </div>
+                    </div>
+                    <div class="form-group-inline">
+                        <div class="form-row">
+                            <label>Bán kính (m)</label>
+                            <input type="number" @bind="newPoi.Radius" />
+                        </div>
+                        <div class="form-row">
+                            <label>Độ ưu tiên</label>
+                            <input type="number" @bind="newPoi.Priority" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn-cancel" @onclick="CloseModal">Hủy</button>
+                    <button class="btn-save" @onclick="HandleSave">@(isEditMode ? "Cập Nhật" : "Lưu Vào Database")</button>
+                </div>
+            </div>
+        </div>
+    }
+
+    @* --- MODAL XÁC NHẬN XÓA --- *@
+    @if (showDeleteModal)
+    {
+        <div class="modal-backdrop">
+            <div class="custom-modal confirm-modal">
+                <div class="modal-body text-center" style="padding: 20px 0;">
+                    <div class="warning-icon">⚠️</div>
+                    <h3 style="margin: 15px 0 10px 0;">Xác nhận xóa?</h3>
+                    <p style="color: #6b7280; font-size: 14px;">Bạn có chắc chắn muốn xóa quán ăn này không?</p>
+                </div>
+                <div class="modal-footer" style="justify-content: center; border-top: none;">
+                    <button class="btn-cancel" @onclick="() => showDeleteModal = false">Hủy bỏ</button>
+                    <button class="btn-save" style="background: #dc2626;" @onclick="ConfirmDelete">Đồng ý Xóa</button>
+                </div>
+            </div>
+        </div>
+    }
+
+    @* --- THÔNG BÁO TOAST --- *@
+    @if (showToast)
+    {
+        <div class="toast-notification">
+            <span class="bi bi-check-circle-fill"></span> @toastMessage
+        </div>
+    }
+</div>
+
+@code {
+    private string searchTerm = ""; 
+    private bool showModal = false;
+    private bool isEditMode = false;
+    private bool showDeleteModal = false;
+    private bool showToast = false;
+    private string toastMessage = "";
+    private int idToDelete = 0;
+    private PoiModel newPoi = new PoiModel();
+    private List<PoiModel>? Pois;
+    
+    // Biến lưu quyền người dùng hiện tại
+    private string? userRole;
+    private string? currentOwnerId;
+
+    private string apiBaseUrl = "https://localhost:7117/api/Poi";
+
+    protected override async Task OnInitializedAsync() => await LoadData();
+
+    private async Task LoadData() {
+        try { 
+            userRole = await JS.InvokeAsync<string>("localStorage.getItem", "userRole");
+            currentOwnerId = await JS.InvokeAsync<string>("localStorage.getItem", "ownerId");
+
+            var requestUrl = $"{apiBaseUrl}?role={userRole}&ownerId={currentOwnerId}";
+            Pois = await Http.GetFromJsonAsync<List<PoiModel>>(requestUrl); 
+        } catch { 
+            Pois = new List<PoiModel>();
+        }
+    }
+
+    private void OpenModal() {
+        isEditMode = false;
+        newPoi = new PoiModel { Radius = 50, Priority = 1, OwnerId = "" };
+        showModal = true;
+    }
+
+    private void OpenEditModal(PoiModel poi) {
+        isEditMode = true;
+        newPoi = new PoiModel { 
+            Id = poi.Id, Name = poi.Name, Description = poi.Description,
+            Latitude = poi.Latitude, Longitude = poi.Longitude, Radius = poi.Radius,
+            Priority = poi.Priority, QrCodeId = poi.QrCodeId, ImageUrl = poi.ImageUrl,
+            MapLink = poi.MapLink, AudioContent = poi.AudioContent, AudioFileName = poi.AudioFileName,
+            OwnerId = poi.OwnerId 
+        };
+        showModal = true;
+    }
+
+    private void CloseModal() => showModal = false;
+
+    private async Task HandleSave() {
+        if (string.IsNullOrWhiteSpace(newPoi.Name)) return;
+
+        // Nếu KHÔNG PHẢI ADMIN, tự động gán OwnerId của chính họ khi thêm mới
+        if (!isEditMode && userRole != "Admin") {
+            newPoi.OwnerId = currentOwnerId;
+        }
+
+        HttpResponseMessage response = isEditMode 
+            ? await Http.PutAsJsonAsync($"{apiBaseUrl}/{newPoi.Id}", newPoi)
+            : await Http.PostAsJsonAsync(apiBaseUrl, newPoi);
+
+        if (response.IsSuccessStatusCode) {
+            await LoadData();
+            CloseModal();
+            ShowToast(isEditMode ? "Đã cập nhật quán thành công!" : "Đã thêm quán mới thành công!");
+        }
+    }
+
+    private void AskDelete(int id) {
+        idToDelete = id;
+        showDeleteModal = true;
+    }
+
+    private async Task ConfirmDelete() {
+        var response = await Http.DeleteAsync($"{apiBaseUrl}/{idToDelete}");
+        if (response.IsSuccessStatusCode) {
+            await LoadData();
+            showDeleteModal = false;
+            ShowToast("Đã xóa quán ăn thành công!");
+        }
+    }
+
+    private void ShowToast(string message) {
+        toastMessage = message;
+        showToast = true;
+        StateHasChanged();
+        Task.Delay(3000).ContinueWith(_ => {
+            showToast = false;
+            InvokeAsync(StateHasChanged);
+        });
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender) {
+        if (firstRender) {
+            var isLoggedIn = await JS.InvokeAsync<string>("localStorage.getItem", "isLoggedIn");
+            if (isLoggedIn != "true") NavManager.NavigateTo("/login");
+            
+            // Lấy lại role một lần nữa sau khi render để chắc chắn UI cập nhật đúng
+            userRole = await JS.InvokeAsync<string>("localStorage.getItem", "userRole");
+            StateHasChanged();
+        }
+    }
+}
+
+<style>
+    /* Giữ nguyên CSS cũ của bạn và thêm các style mới bên dưới */
+    .admin-container { padding: 25px; background: #fff; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); min-height: 85vh; position: relative; }
+    .admin-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; border-bottom: 1px solid #f3f4f6; padding-bottom: 20px; }
+    .page-title { font-size: 26px; font-weight: 700; color: #111827; }
+    .btn-add { background: #10b981; color: #fff; border: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; cursor: pointer; }
+    .search-section { display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px; }
+    .search-box { display: flex; align-items: center; border: 1px solid #e5e7eb; border-radius: 8px; padding: 10px 15px; width: 400px; background: #f9fafb; }
+    .search-box input { border: none; background: none; outline: none; width: 100%; margin-left: 10px; }
+    .total-badge { background: #f59e0b; color: #fff; padding: 6px 16px; border-radius: 20px; font-weight: 700; font-size: 13px; }
+    .admin-table { width: 100%; border-collapse: collapse; }
+    .admin-table th { text-align: left; padding: 15px; color: #4b5563; font-weight: 600; border-bottom: 2px solid #f3f4f6; }
+    .admin-table td { padding: 18px 15px; border-bottom: 1px solid #f3f4f6; }
+    .booth-name { font-weight: 700; color: #111827; font-size: 16px; }
+    .radius-badge { background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 6px; font-weight: 600; }
+    
+    /* Style mới cho Owner Tag */
+    .owner-tag { background: #f3f4f6; color: #374151; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-family: monospace; border: 1px solid #e5e7eb; }
+    .form-select-custom { padding: 10px; border: 1px solid #d1d5db; border-radius: 8px; background-color: #fff; margin-bottom: 5px; }
+
+    .badge-edit { background: #eff6ff; color: #1d4ed8; padding: 4px 16px; border-radius: 6px; font-weight: 600; border: 1px solid #bfdbfe; cursor: pointer; margin-right: 8px; }
+    .badge-delete { background: #fef2f2; color: #dc2626; padding: 4px 16px; border-radius: 6px; font-weight: 600; border: 1px solid #fecaca; cursor: pointer; }
+    .modal-backdrop { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); display: flex; justify-content: center; align-items: center; z-index: 1000; backdrop-filter: blur(4px); }
+    .custom-modal { background: #fff; padding: 30px; border-radius: 16px; width: 550px; max-height: 90vh; overflow-y: auto; }
+    .confirm-modal { width: 380px; padding: 20px; }
+    .warning-icon { font-size: 40px; }
+    .form-row { display: flex; flex-direction: column; margin-bottom: 18px; }
+    .form-row input, .form-row textarea { padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; }
+    .form-group-inline { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .modal-footer { display: flex; justify-content: flex-end; gap: 12px; margin-top: 25px; }
+    .btn-save { background: #10b981; color: #fff; border: none; padding: 12px 30px; border-radius: 8px; font-weight: 700; cursor: pointer; }
+    .btn-cancel { background: #f3f4f6; border: 1px solid #d1d5db; padding: 12px 24px; border-radius: 8px; cursor: pointer; }
+    .toast-notification { position: fixed; bottom: 30px; right: 30px; background: #111827; color: #fff; padding: 15px 25px; border-radius: 10px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.2); z-index: 2000; animation: slideIn 0.3s ease-out; display: flex; align-items: center; gap: 10px; font-weight: 600; }
+    @@keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+</style>

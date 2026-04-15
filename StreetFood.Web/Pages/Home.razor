@@ -1,0 +1,10 @@
+﻿@page "/"
+@inject NavigationManager NavManager
+
+@code {
+    protected override void OnInitialized()
+    {
+        // Vừa load trang chủ là tự động đá sang trang login luôn
+        NavManager.NavigateTo("/login");
+    }
+}

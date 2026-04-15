@@ -1,0 +1,107 @@
+﻿@page "/login"
+@layout Layout.EmptyLayout
+@inject NavigationManager NavManager
+@inject IJSRuntime JS
+
+<PageTitle>Đăng nhập - StreetFood</PageTitle>
+
+<div class="login-wrapper">
+    <div class="login-container">
+        <div class="logo-text">🍔 StreetFood</div>
+        <div class="logo-subtext">Đăng nhập Quản trị & Người dùng</div>
+
+        <div class="input-group">
+            <label>Tên đăng nhập</label>
+            <input type="text" @bind="username" placeholder="admin hoặc chuquan1" />
+        </div>
+        
+        <div class="input-group">
+            <label>Mật khẩu</label>
+            <input type="password" @bind="password" placeholder="Mật khẩu là 123" @onkeyup="HandleKeyPress" />
+        </div>
+
+        @if (!string.IsNullOrEmpty(errorMessage))
+        {
+            <div class="error-message">@errorMessage</div>
+        }
+
+        <button class="btn-login" @onclick="ExecuteLogin" disabled="@isLoading">
+            @(isLoading ? "Đang xử lý..." : "Đăng nhập")
+        </button>
+    </div>
+</div>
+
+@code {
+    private string username = "";
+    private string password = "";
+    private string errorMessage = "";
+    private bool isLoading = false;
+
+    private async Task ExecuteLogin()
+    {
+        if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+        {
+            errorMessage = "Vui lòng nhập đầy đủ thông tin!";
+            return;
+        }
+
+        isLoading = true;
+        errorMessage = "";
+
+        await Task.Delay(800); // Giả vờ load mạng cho uy tín
+
+        // --- HỆ THỐNG PHÂN QUYỀN TÀI KHOẢN ---
+        if (password == "123") // Giữ mật khẩu chung là 123 cho dễ nhớ
+        {
+            if (username == "admin")
+            {
+                await SaveLoginSession("admin", "Admin", "all");
+                NavManager.NavigateTo("/admin-pois");
+            }
+            else if (username == "chuquan1")
+            {
+                // Giả sử chuquan1 sở hữu quán có OwnerId là 'owner_01' trong DB
+                await SaveLoginSession("chuquan1", "ShopOwner", "owner_01");
+                NavManager.NavigateTo("/admin-pois");
+            }
+            else
+            {
+                errorMessage = "Tài khoản không tồn tại!";
+            }
+        }
+        else
+        {
+            errorMessage = "Sai mật khẩu!";
+        }
+        isLoading = false;
+    }
+
+    private async Task SaveLoginSession(string user, string role, string ownerId)
+    {
+        await JS.InvokeVoidAsync("localStorage.setItem", "isLoggedIn", "true");
+        await JS.InvokeVoidAsync("localStorage.setItem", "username", user);
+        await JS.InvokeVoidAsync("localStorage.setItem", "userRole", role);
+        await JS.InvokeVoidAsync("localStorage.setItem", "ownerId", ownerId);
+    }
+
+    private async Task HandleKeyPress(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter") await ExecuteLogin();
+    }
+}
+
+<style>
+    /* Giữ nguyên phần Style của bạn */
+    .login-wrapper { background-color: #f3f4f6; display: flex; justify-content: center; align-items: center; height: 100vh; position: absolute; top: 0; left: 0; width: 100%; z-index: 1000; }
+    .login-container { background-color: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; max-width: 400px; }
+    .logo-text { text-align: center; font-size: 24px; font-weight: bold; color: #1f2937; margin-bottom: 8px; }
+    .logo-subtext { text-align: center; font-size: 14px; color: #6b7280; margin-bottom: 32px; }
+    .input-group { margin-bottom: 20px; }
+    .input-group label { display: block; font-size: 14px; color: #374151; margin-bottom: 6px; font-weight: 500; }
+    .input-group input { width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 14px; outline: none; transition: border-color 0.2s; }
+    .input-group input:focus { border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
+    .btn-login { width: 100%; padding: 12px; background-color: #3b82f6; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer; transition: background-color 0.2s;}
+    .btn-login:hover { background-color: #2563eb; }
+    .btn-login:disabled { background-color: #9ca3af; cursor: not-allowed; }
+    .error-message { color: #ef4444; font-size: 13px; margin-bottom: 15px; text-align: center; font-weight: bold; }
+</style>

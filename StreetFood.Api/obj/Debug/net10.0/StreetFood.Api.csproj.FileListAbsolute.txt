@@ -1,0 +1,954 @@
+D:\C##\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\C##\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\C##\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\C##\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\C##\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\C##\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\C##\C##\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\c## minh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\appsettings.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.staticwebassets.endpoints.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.exe
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.deps.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.runtimeconfig.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\StreetFood.Api.pdb
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Humanizer.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.AssemblyReference.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfoInputs.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.AssemblyInfo.cs
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.csproj.CoreCompileInputs.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\scopedcss\bundle\StreetFood.Api.styles.css
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFo.296C93BA.Up2Date
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\refint\StreetFood.Api.dll
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.pdb
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\StreetFood.Api.genruntimeconfig.cache
+D:\CSharp Khoa\c## minhhh\c## minhhh\CSharp_Projects\CSharp_Projects\CSharp_Projects1\StreetFood.Api\obj\Debug\net10.0\ref\StreetFood.Api.dll

@@ -1,0 +1,6 @@
+@StreetFood.Api_HostAddress = http://localhost:5166
+
+GET {{StreetFood.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
