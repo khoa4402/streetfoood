@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiR+ODdvbxE=",
+  "dgSpecHash": "CvHtnZeDA08=",
   "success": true,
-  "projectFilePath": "D:\\CSharp Khoa\\c## minhhh\\c## minhhh\\CSharp_Projects\\CSharp_Projects\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
+  "projectFilePath": "D:\\meoemo\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khoa\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
     "C:\\Users\\khoa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.5\\microsoft.aspnetcore.authorization.10.0.5.nupkg.sha512",

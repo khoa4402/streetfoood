@@ -2,6 +2,8 @@
 @layout Layout.EmptyLayout
 @inject NavigationManager NavManager
 @inject IJSRuntime JS
+@inject HttpClient Http
+@using StreetFood.Web.Models
 
 <PageTitle>Đăng nhập - StreetFood</PageTitle>
 
@@ -12,12 +14,12 @@
 
         <div class="input-group">
             <label>Tên đăng nhập</label>
-            <input type="text" @bind="username" placeholder="admin hoặc chuquan1" />
+            <input type="text" @bind="username" placeholder="Nhập tên tài khoản..." />
         </div>
         
         <div class="input-group">
             <label>Mật khẩu</label>
-            <input type="password" @bind="password" placeholder="Mật khẩu là 123" @onkeyup="HandleKeyPress" />
+            <input type="password" @bind="password" placeholder="Nhập mật khẩu..." @onkeyup="HandleKeyPress" />
         </div>
 
         @if (!string.IsNullOrEmpty(errorMessage))
@@ -37,6 +39,9 @@
     private string errorMessage = "";
     private bool isLoading = false;
 
+    // Đã sửa: Gọi đúng cổng API 7117 mà bạn đang chạy
+    private string apiBaseUrl = "https://localhost:7117/api/User";
+
     private async Task ExecuteLogin()
     {
         if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
@@ -48,32 +53,39 @@
         isLoading = true;
         errorMessage = "";
 
-        await Task.Delay(800); // Giả vờ load mạng cho uy tín
-
-        // --- HỆ THỐNG PHÂN QUYỀN TÀI KHOẢN ---
-        if (password == "123") // Giữ mật khẩu chung là 123 cho dễ nhớ
+        try
         {
-            if (username == "admin")
+            // 1. Lấy danh sách user từ Database thông qua API
+            var users = await Http.GetFromJsonAsync<List<UserModel>>(apiBaseUrl);
+
+            // 2. Tìm kiếm tài khoản khớp với Username và Password
+            var user = users?.FirstOrDefault(u => u.Username == username && u.Password == password);
+
+            if (user != null)
             {
-                await SaveLoginSession("admin", "Admin", "all");
-                NavManager.NavigateTo("/admin-pois");
-            }
-            else if (username == "chuquan1")
-            {
-                // Giả sử chuquan1 sở hữu quán có OwnerId là 'owner_01' trong DB
-                await SaveLoginSession("chuquan1", "ShopOwner", "owner_01");
-                NavManager.NavigateTo("/admin-pois");
+                // Nếu tìm thấy, lưu Session và chuyển trang
+                await SaveLoginSession(user.Username, user.Role, user.OwnerId ?? "all");
+                
+                // Phân quyền trang đích
+                if (user.Role == "Admin")
+                    NavManager.NavigateTo("/admin-users"); // Admin vào trang quản lý user
+                else
+                    NavManager.NavigateTo("/admin-pois");  // Chủ quán vào trang quản lý quán
             }
             else
             {
-                errorMessage = "Tài khoản không tồn tại!";
+                errorMessage = "Tài khoản hoặc mật khẩu không chính xác!";
             }
         }
-        else
+        catch (Exception ex)
         {
-            errorMessage = "Sai mật khẩu!";
+            errorMessage = "Lỗi kết nối API! Hãy chắc chắn project API (7117) đang chạy.";
+            Console.WriteLine(ex.Message);
         }
-        isLoading = false;
+        finally
+        {
+            isLoading = false;
+        }
     }
 
     private async Task SaveLoginSession(string user, string role, string ownerId)
@@ -91,7 +103,7 @@
 }
 
 <style>
-    /* Giữ nguyên phần Style của bạn */
+    /* Phần Style giữ nguyên như bản cũ của bạn */
     .login-wrapper { background-color: #f3f4f6; display: flex; justify-content: center; align-items: center; height: 100vh; position: absolute; top: 0; left: 0; width: 100%; z-index: 1000; }
     .login-container { background-color: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; max-width: 400px; }
     .logo-text { text-align: center; font-size: 24px; font-weight: bold; color: #1f2937; margin-bottom: 8px; }

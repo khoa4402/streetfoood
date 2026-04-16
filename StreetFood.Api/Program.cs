@@ -13,18 +13,20 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         }));
 
 // Cấu hình CORS: Phải thật sự "mở toang cửa" thì Web mới vào được
-builder.Services.AddCors(options => {
-    options.AddPolicy("AllowAll", policy => {
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
         policy.AllowAnyOrigin()
               .AllowAnyMethod()
               .AllowAnyHeader();
     });
 });
-
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
+app.UseCors("AllowAll");
 
 // --- 2. CẤU HÌNH PIPELINE (MIDDLEWARE) ---
 

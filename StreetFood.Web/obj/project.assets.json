@@ -2142,11 +2142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp Khoa\\c## minhhh\\c## minhhh\\CSharp_Projects\\CSharp_Projects\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
+      "projectUniqueName": "D:\\meoemo\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
       "projectName": "StreetFood.Web",
-      "projectPath": "D:\\CSharp Khoa\\c## minhhh\\c## minhhh\\CSharp_Projects\\CSharp_Projects\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
+      "projectPath": "D:\\meoemo\\CSharp_Projects1\\StreetFood.Web\\StreetFood.Web.csproj",
       "packagesPath": "C:\\Users\\khoa\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp Khoa\\c## minhhh\\c## minhhh\\CSharp_Projects\\CSharp_Projects\\CSharp_Projects1\\StreetFood.Web\\obj\\",
+      "outputPath": "D:\\meoemo\\CSharp_Projects1\\StreetFood.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

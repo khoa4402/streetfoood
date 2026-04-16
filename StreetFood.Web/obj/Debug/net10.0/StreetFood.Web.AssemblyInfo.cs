@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreetFood.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad9c07937c54a9baf35ed336bf4326edc28475e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreetFood.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreetFood.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

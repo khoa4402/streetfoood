@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AZRqlo905JU=",
+  "dgSpecHash": "0yNyY6DzVag=",
   "success": true,
-  "projectFilePath": "D:\\CSharp Khoa\\c## minhhh\\c## minhhh\\CSharp_Projects\\CSharp_Projects\\CSharp_Projects1\\StreetFood.Api\\StreetFood.Api.csproj",
+  "projectFilePath": "D:\\meoemo\\CSharp_Projects1\\StreetFood.Api\\StreetFood.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khoa\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\khoa\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
